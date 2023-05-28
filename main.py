@@ -13,7 +13,3 @@ peso_semanal.update("033","2023-05-23","75")
 # data_real = str(data_hj).replace("-","")
 # result = (int(data_calc) - int(20230514)) + 1
 # print(result)
-
-
-
-
